@@ -10,4 +10,4 @@ The code here takes two video files (a pair of recordings of the body frame and 
 
 ## Instruction
 - Please find a demonstrational data set to run the code here (https://www.dropbox.com/sh/x651jmxqbiq4qvr/AAAXHEU-YcuiO_s7dT0cgy-Sa?dl=0).
-- The code here uses a trained DeepLabCut for tracking and does not include an instruction of how such training is done. Please refer to the official DeepLabCut repository, or reach out to me for more further instructions on this.
+- The code here uses a trained DeepLabCut for tracking and does not include an instruction of how such training is done. Please refer to the official DeepLabCut repository, or reach out to me for further instructions on this.
