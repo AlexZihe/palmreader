@@ -2,7 +2,7 @@
 - Written by Zihe (Alex) Zhang
 - zihe_zhang@g.harvard.edu
 
-This github repository hosts the code used for data acuisition and analysis in the paper "Automated preclinical detection of mechanical pain hypersensitivity and analgesia." (https://journals.lww.com/pain/abstract/9900/automated_preclinical_detection_of_mechanical_pain.88.aspx)
+This github repository hosts the code used for data acquisition and analysis in the paper "Automated preclinical detection of mechanical pain hypersensitivity and analgesia." (https://journals.lww.com/pain/abstract/9900/automated_preclinical_detection_of_mechanical_pain.88.aspx)
 
 The python code scripts (utils.py and analysis.py) together are self-contained, while the jupyter notebook (analysis.ipynb) is a walk-through of the functionality in the python code scripts.
 
